@@ -1,0 +1,11 @@
+{
+  "name": "foundry-italia-xlate",
+  "title": "Italian Translation",
+  "description": "Italian translation module.",
+  "version": 0.1,
+  "author": "Simone",
+  "scripts": ["translate.js"],
+  "languages": {
+  	"it": "it.json"
+  }
+}
